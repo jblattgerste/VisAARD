@@ -59,10 +59,17 @@ If you use this work or the VisAARD tool in your research, please cite our paper
 
 ```
 @inproceedings{knoben_comparing_2026,
+	address = {New York, NY, USA},
+	series = {{MuC} '26},
 	title = {Comparing {AI}-{Assisted} {Authoring} by {Demonstration} to {Manual} {Authoring} of {Augmented} {Reality} {Maintenance} {Instructions}},
-	booktitle = {accepted},
-	publisher = {ACM},
-	author = {Knoben, Valentin and Blattgerste, Jonas and Hein, Björn and Wurll, Christian},
+	isbn = {979-8-4007-2611-8},
+	url = {https://doi.org/10.1145/3820253.3820275},
+	doi = {10.1145/3820253.3820275},
+	booktitle = {Proceedings of {Mensch} und {Computer} 2026},
+	publisher = {Association for Computing Machinery},
+	author = {Knoben, Valentin Tang and Blattgerste, Jonas and Hein, Björn and Wurll, Christian},
+	month = aug,
 	year = {2026},
+	pages = {396--409},
 }
 ```
